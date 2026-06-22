@@ -1,1 +1,2 @@
-# Teste_repo_01
+# Nome: André Barbosa de Oliveira
+# Disciplina: Projeto integrador
